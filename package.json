@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/isjia/wechat-dev-with-nodejs-stuQ/issues"
   },
-  "homepage": "https://github.com/isjia/wechat-dev-with-nodejs-stuQ#readme"
+  "homepage": "https://github.com/isjia/wechat-dev-with-nodejs-stuQ#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-wrap": "^0.13.0"
+  }
 }
